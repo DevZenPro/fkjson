@@ -1,5 +1,6 @@
 {
-  "posts": [{
+  "posts": [
+    {
       "id": 123,
       "tag": 111111,
       "title": "Beach Cleanup",
