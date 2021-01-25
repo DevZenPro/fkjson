@@ -1,6 +1,5 @@
 {
-  "posts": [
-    {
+  "posts": [{
       "id": 123,
       "tag": 111111,
       "title": "Beach Cleanup",
@@ -12,14 +11,14 @@
       "tag": 111112,
       "title": "The Other Guy",
       "description": "Join us as we tend to the community edible plants.",
-      "date": "March 14, 2022",
+      "date": "March 14, 2022"
     },
     {
       "id": 789,
       "tag": 111113,
       "title": "Beach Experience",
       "description": "Help pick up trash along the shore.",
-      "date": "July 22, 2022",
+      "date": "July 22, 2022"
     }
   ]
 }
